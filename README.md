@@ -54,6 +54,8 @@ Global Insights: From the US leading the AI talent race to India's IT market sky
 
 **My Analysis Questions:** My specific questions reveal a deep understanding of AI's multifaceted nature. Analyzing job growth, programming languages, research contributions, and skill penetration paints a comprehensive picture of this evolving field.
 
+# My Portfolio Website Link: https://sourav-pal0.github.io/My-Portfolio-Website/
+
 # Preview:
 
 ![AI skill demand by AI subcategory](https://github.com/Sourav-Pal0/Data_Analysis_On_AI_-Artificial_Intelligence-/assets/156578280/25d37c1e-e7bc-472a-80a0-67b0b383e095)
