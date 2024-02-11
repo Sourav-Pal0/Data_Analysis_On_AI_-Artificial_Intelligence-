@@ -1,0 +1,65 @@
+Skill,axis,value
+deep learning,Applications & networks,38.980891719745195
+deep learning,Database administration,22.420382165605098
+deep learning,Open source programming,6.878980891719751
+deep learning,User interface,31.3375796178344
+deep learning,Artificial intelligence,98.343949044586
+deep learning,Data processing,90.3184713375796
+deep learning,Testing & quality,55.6687898089172
+deep learning,Systems programming & robotics,16.050955414012698
+deep learning,Microsoft tools & cloud,51.4649681528662
+deep learning,Enterprise services,46.6242038216561
+deep learning,Data management,46.7515923566879
+deep learning,Digital security,83.8216560509554
+deep learning,Source code management,46.4968152866242
+deep learning,Database architecture,20.127388535031802
+deep learning,Web development,48.025477707006395
+deep learning,DevOps,23.057324840764302
+machine learning,Applications & networks,25.859872611465
+machine learning,Database administration,20.5095541401274
+machine learning,Open source programming,9.68152866242038
+machine learning,User interface,2.29299363057325
+machine learning,Artificial intelligence,97.57961783439491
+machine learning,Data processing,73.3757961783439
+machine learning,Testing & quality,44.5859872611465
+machine learning,Systems programming & robotics,2.1656050955414
+machine learning,Microsoft tools & cloud,5.0955414012738895
+machine learning,Enterprise services,52.993630573248396
+machine learning,Data management,42.929936305732504
+machine learning,Digital security,16.687898089172002
+machine learning,Source code management,31.7197452229299
+machine learning,Database architecture,42.420382165605105
+machine learning,Web development,11.210191082802499
+machine learning,DevOps,13.630573248407599
+python (programming language),Applications & networks,3.18471337579618
+python (programming language),Database administration,40.5095541401274
+python (programming language),Open source programming,39.6178343949045
+python (programming language),User interface,0.636942675159236
+python (programming language),Artificial intelligence,69.8089171974522
+python (programming language),Data processing,1.65605095541401
+python (programming language),Testing & quality,43.312101910828
+python (programming language),Systems programming & robotics,42.929936305732504
+python (programming language),Microsoft tools & cloud,0.509554140127389
+python (programming language),Enterprise services,44.968152866242
+python (programming language),Data management,34.0127388535032
+python (programming language),Digital security,1.9108280254777101
+python (programming language),Source code management,4.20382165605096
+python (programming language),Database architecture,7.3885350318471295
+python (programming language),Web development,9.29936305732484
+python (programming language),DevOps,22.0382165605096
+sql,Applications & networks,78.9808917197452
+sql,Database administration,99.2356687898089
+sql,Open source programming,71.59235668789809
+sql,User interface,12.7388535031847
+sql,Artificial intelligence,13.757961783439502
+sql,Data processing,36.4331210191083
+sql,Testing & quality,18.9808917197452
+sql,Systems programming & robotics,48.4076433121019
+sql,Microsoft tools & cloud,0.8917197452229301
+sql,Enterprise services,61.910828025477706
+sql,Data management,66.2420382165605
+sql,Digital security,14.3949044585987
+sql,Source code management,4.07643312101911
+sql,Database architecture,27.6433121019108
+sql,Web development,4.71337579617834
+sql,DevOps,27.006369426751597
