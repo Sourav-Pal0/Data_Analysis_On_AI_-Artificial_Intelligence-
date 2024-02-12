@@ -3,23 +3,23 @@ My second portfolio project, crafted entirely in Python, delves into the heart o
 
 # Get ready to unlock the secrets of AI:
 
-Are AI jobs skyrocketing?:-
+* Are AI jobs skyrocketing?:-
 
-You bet! We saw a staggering 45% annual increase in AI-related job postings, proving its transformative power across industries.
+* You bet! We saw a staggering 45% annual increase in AI-related job postings, proving its transformative power across industries.
 
-Generative AI, the future of creativity, is exploding!:-
+* Generative AI, the future of creativity, is exploding!:-
 
 This subfield saw a 32% growth in job postings, hinting at exciting possibilities in art, design, and beyond.
 
-**Python reigns supreme!:-** It dominates every AI subcategory, making it your ultimate key to unlocking career opportunities.
+* **Python reigns supreme!:-** It dominates every AI subcategory, making it your ultimate key to unlocking career opportunities.
 
-**Deep learning steals the show in IT!:-** This powerful technique claims the top spot in IT categories, emphasizing its crucial role in shaping the future.
+* **Deep learning steals the show in IT!:-** This powerful technique claims the top spot in IT categories, emphasizing its crucial role in shaping the future.
 
-**The US leads the AI talent race!:-** But India's IT job market is surging, making it a hotbed for tech enthusiasts.
+* **The US leads the AI talent race!:-** But India's IT job market is surging, making it a hotbed for tech enthusiasts.
 
-**Research trends revealed!:-** Deep learning, object detection, and IOU research papers are taking the world by storm, offering glimpses into the next big breakthroughs.
+* **Research trends revealed!:-** Deep learning, object detection, and IOU research papers are taking the world by storm, offering glimpses into the next big breakthroughs.
 
-And that's just the tip of the iceberg! My project answers critical questions like:
+## And that's just the tip of the iceberg! My project answers critical questions like:
 
 Which institute published the most AI research in 2023?
 
@@ -35,24 +35,24 @@ Remember, the future is AI-powered. Are you ready to be a part of it?
 
 3 AI Insights to Supercharge Your Future:
 
-**Demand Explosion:** AI jobs are blasting off with a 45% annual jump! Master Python, the key to every AI door, and unlock this booming career landscape.
+* **Demand Explosion:** AI jobs are blasting off with a 45% annual jump! Master Python, the key to every AI door, and unlock this booming career landscape.
 
-Visualize the Future: My interactive visuals pinpoint hot research areas like deep learning and object detection. Stay ahead of the curve and contribute to the next big tech breakthroughs.
+* **Visualize the Future:** My interactive visuals pinpoint hot research areas like deep learning and object detection. Stay ahead of the curve and contribute to the next big tech breakthroughs.
 
-Global Insights: From the US leading the AI talent race to India's IT market skyrocketing, grasp the worldwide AI picture. Make informed decisions and seize opportunities on a global scale.
+* **Global Insights:** From the US leading the AI talent race to India's IT market skyrocketing, grasp the worldwide AI picture. Make informed decisions and seize opportunities on a global scale.
 
 
 # Why did I create this?
 
-**Why I Analyzed the World of AI:** This Data Analysis on AI project wasn't just a portfolio piece; it was a journey of discovery fueled by my dual passions: data analysis and artificial intelligence. As a data analyst, I'm constantly seeking knowledge, and AI's rapid evolution piqued my curiosity.
+* **Why I Analyzed the World of AI:** This Data Analysis on AI project wasn't just a portfolio piece; it was a journey of discovery fueled by my dual passions: data analysis and artificial intelligence. As a data analyst, I'm constantly seeking knowledge, and AI's rapid evolution piqued my curiosity.
 
-**Beyond the Usual Suspects:** I knew creating a unique project meant avoiding the well-trodden path. By delving into diverse aspects of AI, from job market trends to research landscapes, I aimed to uncover fresh insights and showcase my analytical skills.
+* **Beyond the Usual Suspects:** I knew creating a unique project meant avoiding the well-trodden path. By delving into diverse aspects of AI, from job market trends to research landscapes, I aimed to uncover fresh insights and showcase my analytical skills.
 
-**Addressing a Global Need:** AI's impact stretches across industries and borders. Analyzing its current state wasn't just about personal growth; it was about providing valuable information to businesses and individuals navigating this dynamic field.
+* **Addressing a Global Need:** AI's impact stretches across industries and borders. Analyzing its current state wasn't just about personal growth; it was about providing valuable information to businesses and individuals navigating this dynamic field.
 
-**Sharpening My Toolkit, Boosting My Career:** Understanding AI trends equips me to make informed decisions about my career trajectory. Knowing which skills are in demand and which research areas are booming allows me to continuously learn and stay relevant in this fast-paced domain.
+* **Sharpening My Toolkit, Boosting My Career:** Understanding AI trends equips me to make informed decisions about my career trajectory. Knowing which skills are in demand and which research areas are booming allows me to continuously learn and stay relevant in this fast-paced domain.
 
-**My Analysis Questions:** My specific questions reveal a deep understanding of AI's multifaceted nature. Analyzing job growth, programming languages, research contributions, and skill penetration paints a comprehensive picture of this evolving field.
+* **My Analysis Questions:** My specific questions reveal a deep understanding of AI's multifaceted nature. Analyzing job growth, programming languages, research contributions, and skill penetration paints a comprehensive picture of this evolving field.
 
 # My Portfolio Website Link: https://sourav-pal0.github.io/My-Portfolio-Website/
 
